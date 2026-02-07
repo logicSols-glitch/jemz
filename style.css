@@ -1131,6 +1131,7 @@ body {
 @media (max-width: 768px) {
   .footer-section {
     max-width: 100%;
+    padding: 0px 30px;
   }
 }
 
@@ -1306,6 +1307,7 @@ body {
   .hero-section {
     /* padding: 0px 20px; */
     flex-direction: column;
+    margin-top: 50px;
     /* text-align: center; */
   }
   .hero-content {
@@ -1549,6 +1551,7 @@ body {
 
 /* --- Projects Page Main Section --- */
 .main {
+  margin-top: 50px;
   text-align: center;
   padding: 40px 20px;
   background-color: #fff;
